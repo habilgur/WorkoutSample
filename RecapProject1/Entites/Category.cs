@@ -9,5 +9,6 @@ namespace RecapProject1.Entites
     {
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
+        //GitHub Control
     }
 }
